@@ -1,0 +1,21 @@
+{
+    "namespace": "/automacao_powerbi",
+    "namespace_sink": "sti/power_bi",
+    "file_folder": "azadata032_pb_workspaces",
+    "verify_files": false,
+    "extension": "parquet",
+    "column_delimiter": ";",
+    "encoding": "UTF-8",
+    "null_value": "",
+    "not_archive": ""
+}{
+    "namespace": "/automacao_powerbi",
+    "namespace_sink": "sti/power_bi",
+    "file_folder": "azadata032_pb_workspaces",
+    "verify_files": false,
+    "extension": "parquet",
+    "column_delimiter": ";",
+    "encoding": "UTF-8",
+    "null_value": "",
+    "not_archive": ""
+}
